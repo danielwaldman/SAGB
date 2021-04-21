@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+CLEVELAND CAVALIERS,265,48,91,5,20,14,20,10,29,24,9,5,14,18
+DETROIT PISTONS,265,48,98,6,20,10,16,19,27,20,8,9,15,25
+PORTLAND TRAIL BLAZERS,240,35,96,11,37,21,31,14,27,14,9,6,10,21
+MINNESOTA TIMBERWOLVES,240,44,89,13,32,15,21,15,41,25,7,9,14,28
+HOUSTON ROCKETS,240,34,89,11,40,13,14,8,31,16,4,3,14,21
+OKLAHOMA CITY THUNDER,240,43,87,11,32,16,20,9,43,22,8,2,13,13
+BOSTON CELTICS,240,38,88,14,36,8,8,8,30,17,8,1,14,16
+PHILADELPHIA 76ERS,240,43,88,11,27,12,17,13,35,24,6,5,12,11

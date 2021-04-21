@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+GOLDEN STATE WARRIORS,240,37,99,10,33,15,23,13,34,26,6,6,18,24
+BROOKLYN NETS,240,42,92,15,35,26,32,13,44,24,11,7,20,22
+LOS ANGELES CLIPPERS,240,44,93,14,40,14,19,11,29,22,10,3,16,29
+LOS ANGELES LAKERS,240,38,81,9,29,24,31,8,37,22,4,2,19,20

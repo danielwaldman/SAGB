@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+DENVER NUGGETS,265,48,96,10,32,17,22,14,33,30,7,7,9,19
+DETROIT PISTONS,265,48,94,14,31,18,24,11,32,33,4,2,11,22
+NEW ORLEANS PELICANS,240,42,94,10,33,15,20,16,47,21,6,6,21,16
+HOUSTON ROCKETS,240,41,105,16,51,19,22,11,32,22,14,3,7,18
+PHOENIX SUNS,240,41,104,6,23,20,23,15,34,20,8,3,10,24
+MILWAUKEE BUCKS,240,48,97,15,38,18,27,16,44,30,4,12,16,25
+CHICAGO BULLS,240,35,90,15,48,17,26,17,24,25,10,0,16,21
+TORONTO RAPTORS,240,47,84,16,34,19,23,12,34,28,6,5,15,18

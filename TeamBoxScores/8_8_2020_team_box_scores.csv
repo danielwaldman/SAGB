@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+MILWAUKEE BUCKS,265,47,99,15,44,23,34,9,46,26,3,9,13,26
+DALLAS MAVERICKS,265,48,115,17,53,23,25,11,43,37,6,2,6,26
+UTAH JAZZ,290,47,105,22,55,16,22,15,36,34,6,4,22,30
+DENVER NUGGETS,290,51,108,9,37,23,30,12,40,29,10,5,11,24
+LOS ANGELES LAKERS,240,42,100,13,39,14,19,15,29,20,13,6,15,16
+INDIANA PACERS,240,44,84,15,33,13,14,7,35,25,12,4,20,21
+PHOENIX SUNS,240,44,92,12,32,19,20,12,40,27,5,4,11,21
+MIAMI HEAT,240,41,84,11,36,19,22,3,34,28,6,9,12,21
+LOS ANGELES CLIPPERS,240,42,85,15,34,23,28,9,36,24,5,2,14,22
+PORTLAND TRAIL BLAZERS,240,44,90,17,43,12,17,9,32,24,5,2,11,26

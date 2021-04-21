@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+BOSTON CELTICS,240,40,93,10,33,18,23,11,41,29,13,5,12,19
+CHARLOTTE HORNETS,240,33,86,6,31,15,21,9,40,21,7,9,20,19
+PORTLAND TRAIL BLAZERS,240,39,104,11,39,12,16,17,34,18,7,4,13,27
+LOS ANGELES CLIPPERS,240,39,89,4,23,25,30,13,44,20,6,12,17,14
+MIAMI HEAT,240,45,82,15,28,19,24,5,36,22,9,5,13,28
+PHOENIX SUNS,240,37,84,11,32,23,31,10,30,22,4,3,14,21
+OKLAHOMA CITY THUNDER,240,42,80,10,21,18,24,4,27,26,7,2,13,14
+SAN ANTONIO SPURS,240,51,94,9,20,10,11,12,35,32,5,3,13,21

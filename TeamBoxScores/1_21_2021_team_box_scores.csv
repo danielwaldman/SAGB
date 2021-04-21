@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+NEW YORK KNICKS,240,38,82,11,24,32,41,11,44,24,5,9,11,29
+GOLDEN STATE WARRIORS,240,33,86,9,38,29,39,9,37,27,5,3,10,26
+LOS ANGELES LAKERS,240,41,88,19,37,12,15,6,32,25,8,8,10,14
+MILWAUKEE BUCKS,240,44,87,9,28,9,12,5,41,27,5,5,14,18
+NEW ORLEANS PELICANS,240,42,85,11,25,23,30,10,31,27,9,2,17,19
+UTAH JAZZ,240,44,88,17,39,24,25,8,31,27,8,8,15,27
