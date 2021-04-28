@@ -1,0 +1,21 @@
+BOX_SCORES
+- M_D_YYYY_box_scores
+- M_D_YYYY_team_box_scores
+- M_D_YYYY_box_scores_predicted_with_actual?
+- SM_SD_EM_ED_EYYYY_predicted_box_scores?
+
+SALARIES
+- DKSalaries_MMDDYYYY
+- FanDuel-NBA-YYYY-MM-DDD-#####-players-list
+
+PREDICTIONS
+- predictions_for_MM_DD_YYYY_unplayed
+- predictions_for_GMM_GDD_from_SM_SD_SYYYYY
+
+PROJECTIONS
+- dfs_projections_to_display_M_D_YYYY
+- statline_projections_to_display_M_D_YYYY
+
+LINEUPS
+- optimal_draftkings_lineup_M_D_YYYY
+- optimal_fanduel_lineup_M_D_YYYY
