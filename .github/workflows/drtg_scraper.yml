@@ -3,8 +3,8 @@
 name: Defensive Rating Automatic Scraper
 
 on:
-  schedule:
-    - cron: '0 12 * * *' # runs at 12:00 UTC everyday
+#  schedule:
+#    - cron: '0 12 * * *' # runs at 12:00 UTC everyday
 
 jobs:
   build:
